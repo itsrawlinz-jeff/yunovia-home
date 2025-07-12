@@ -1,7 +1,7 @@
 "use client"
 import Counter from '@/components/common/Counter'
-import Home3Footer from '@/components/Footer/Home3Footer'
-import Header3 from '@/components/header/Header3'
+import Home4Footer from '@/components/Footer/Home4Footer'
+import Header from '@/components/header/Header'
 import Link from 'next/link'
 import React, { useRef } from 'react'
 
@@ -10,7 +10,7 @@ const ServicePage = () => {
     const ref3 = useRef(null);
     return (
         <div>
-            <Header3 />
+            <Header />
 
             {/* Breadcrumb Section Start */}
             <div className="breadcrumb-section mb-130">
@@ -220,7 +220,7 @@ const ServicePage = () => {
             {/* home3 Scroll Text Section End */}
 
 
-            <Home3Footer />
+            <Home4Footer />
         </div>
     )
 }
