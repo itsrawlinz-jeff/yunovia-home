@@ -2,8 +2,8 @@
 import Home5aboutSection from '@/components/about/Home3aboutSection'
 import Home4Banner from '@/components/banner/FintechBanner'
 import Home3BlogSection from '@/components/blog-section/Home3BlogSection'
-import Home3Footer from '@/components/Footer/Home4Footer'
-import Header3 from '@/components/header/Header'
+import Home4Footer from '@/components/Footer/Home4Footer'
+import Header from '@/components/header/Header'
 import Home5PartnerSection from '@/components/partner-sections/Home3PartnerSection'
 import Home7PortfolioSection from '@/components/portfolio-section/Home7PortfolioSection'
 import Home3ProcessSection from '@/components/process-sections/Home3ProcessSection'
@@ -19,7 +19,7 @@ export default function Home() {
     })
     return (
         <>
-            <Header3 />
+            <Header />
             <Home4Banner />
             <Home5PartnerSection />
             <Home5aboutSection />
@@ -28,7 +28,7 @@ export default function Home() {
             <Home3ProcessSection />
             <Home3TestimonialSection />
             {/* <Home3BlogSection /> */}
-            <Home3Footer />
+            <Home4Footer />
             <WhatsAppChat />
         </>
     )
