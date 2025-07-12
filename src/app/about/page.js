@@ -1,10 +1,11 @@
 "use client"
 import React, { useMemo, useRef, useState } from 'react'
 import AwardListSection from '@/components/AwardListSection'
-import Home3Footer from '@/components/Footer/Home4Footer'
-import Header3 from '@/components/header/Header'
+import Home4Footer from '@/components/Footer/Home4Footer'
+import Header from '@/components/header/Header'
 import Home3PartnerSection from '@/components/partner-sections/Home3PartnerSection'
 import { Swiper, SwiperSlide } from "swiper/react";
+import Link from 'next/link'
 import SwiperCore, {
     Autoplay,
     EffectFade,
@@ -44,7 +45,7 @@ const AboutPage = () => {
 
     return (
         <>
-            <Header3 />
+            <Header />
 
             <div className="breadcrumb-section mb-130">
                 <div className="container">
@@ -138,7 +139,7 @@ const AboutPage = () => {
 
             <AwardListSection />
             <Home3PartnerSection />
-            <Home3Footer />
+            <Home4Footer />
         </>
     )
 }

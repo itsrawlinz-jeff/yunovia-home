@@ -1,9 +1,10 @@
 "use client";
 import React, { useMemo, useState } from "react";
 import Counter from '@/components/common/Counter'
-import Home3Footer from '@/components/Footer/Home4Footer'
-import Header3 from '@/components/header/Header'
+import Home4Footer from '@/components/Footer/Home4Footer'
+import Header from '@/components/header/Header'
 import { Swiper, SwiperSlide } from "swiper/react";
+import Link from 'next/link'
 import SwiperCore, {
   Autoplay,
   EffectFade,
@@ -33,7 +34,7 @@ const ServiceDetailsPage = () => {
 
   return (
     <div>
-      <Header3 />
+      <Header />
 
       {/* Breadcrumb */}
       <div className="breadcrumb-section mb-130">

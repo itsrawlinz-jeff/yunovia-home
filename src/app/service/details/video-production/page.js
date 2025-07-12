@@ -1,13 +1,13 @@
 "use client"
 import Counter from '@/components/common/Counter'
-import Home3Footer from '@/components/Footer/Home4Footer'
-import Header3 from '@/components/header/Header'
+import Home4Footer from '@/components/Footer/Home4Footer'
+import Header from '@/components/header/Header'
 import Link from 'next/link';
 
 const ServiceDetailsPage = () => {
     return (
         <div>
-            <Header3 />
+            <Header />
 
             {/* Breadcrumb */}
             <div className="breadcrumb-section mb-130">
@@ -107,7 +107,7 @@ const ServiceDetailsPage = () => {
                 </div>
             </div>
 
-            <Home3Footer />
+            <Home4Footer />
         </div>
     );
 }
