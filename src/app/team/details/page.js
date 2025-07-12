@@ -1,5 +1,5 @@
 import Home3Footer from '@/components/Footer/Home3Footer'
-import Header3 from '@/components/header/Header'
+import Header from '@/components/header/Header'
 import React from 'react'
 
 const page = () => {
