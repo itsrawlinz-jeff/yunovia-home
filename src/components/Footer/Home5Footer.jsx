@@ -46,7 +46,7 @@ const Home5Footer = () => {
                                             </div>
                                             <div className="content">
                                                 <span>WhatsApp</span>
-                                                <a href="tel:+997636844563">+99-763 684 4563</a>
+                                                <a href="tel:+254117888890">+254-117 8888 90</a>
                                             </div>
                                         </li>
                                     </ul>

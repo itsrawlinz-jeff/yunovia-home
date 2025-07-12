@@ -186,7 +186,7 @@ const Header6 = () => {
                                 </div>
                                 <div className="content">
                                     <span>Call 24/7 Hours</span>
-                                    <h6><a href="tel:+997636844563">+99-763 684 4563 </a></h6>
+                                    <h6><a href="tel:+254117888890">+254-117 8888 90 </a></h6>
                                 </div>
                             </li>
                         </ul>
