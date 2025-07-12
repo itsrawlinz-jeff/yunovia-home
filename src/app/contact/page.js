@@ -46,7 +46,7 @@ const ContactPage = () => {
                                         </div>
                                         <div className="content">
                                             <span>Call 24/7 Hours</span>
-                                            <h6><a href="tel:+997636844563">+254117888890 </a></h6>
+                                            <h6><a href="tel:+254117888890">+254117888890 </a></h6>
                                         </div>
                                     </li>
                                     <li>

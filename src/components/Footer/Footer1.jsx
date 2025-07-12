@@ -19,7 +19,7 @@ const Footer1 = () => {
                                         </div>
                                         <div className="content">
                                             <span>Call 24/7 Hours</span>
-                                            <a href="tel:+997636844563">+99-763 684 4563</a>
+                                            <a href="tel:+254117888890">+254-117 8888 90</a>
                                         </div>
                                     </li>
                                     <li className="single-contact">
