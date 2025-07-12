@@ -5,7 +5,6 @@ import Home4Footer from '@/components/Footer/Home4Footer'
 import Header from '@/components/header/Header'
 import Home3PartnerSection from '@/components/partner-sections/Home3PartnerSection'
 import { Swiper, SwiperSlide } from "swiper/react";
-import Link from 'next/link'
 import SwiperCore, {
     Autoplay,
     EffectFade,
