@@ -188,9 +188,9 @@ const Header = ({ style = "", fluid }) => {
                                 <Link href="#" className="drop-down">Our Brands</Link>
                                 <i onClick={() => toggleMenu("company")} className={`bi bi-${state.activeMenu === "company" ? "dash" : "plus"} dropdown-icon`} />
                                 <ul className={`sub-menu ${state.activeMenu === "company" ? "d-block" : "none"}`} >
-                                    <li><Link href="/about">KREP Software - All in CRM,HRM,ERP</Link></li>
+                                    <li><Link href="https://home.krepsoftware.co.ke/">KREP Software - All in CRM,HRM,ERP</Link></li>
                                     <li>
-                                        <Link href="/team">Rawlinz Designs - Digitally Yours!</Link>
+                                        <Link href="https://rawlinzdesigns.co.ke/">Rawlinz Designs - Digitally Yours!</Link>
                                     </li>
                                     <li>
                                         <Link href="http://somaflow.co.ke/">Somaflow- School Mgt Made Easy</Link>

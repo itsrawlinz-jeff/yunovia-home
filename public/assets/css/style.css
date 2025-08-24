@@ -22288,6 +22288,10 @@ header.style-7 .primary-btn3.four svg {
   transform: scale(0.4);
   opacity: 0;
   transition: 0.5s;
+  -webkit-transform: scale(0.4);
+  -moz-transform: scale(0.4);
+  -ms-transform: scale(0.4);
+  -o-transform: scale(0.4);
 }
 .team-card .team-img .emoji-area .emoji {
   position: absolute;
