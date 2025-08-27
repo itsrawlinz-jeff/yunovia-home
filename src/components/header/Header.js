@@ -184,31 +184,31 @@ const Header = ({ style = "", fluid }) => {
                                    
                                 </ul>
                                </li>
-                                <li className={`menu-item-has-children ${isCompanyActive ? "active" : ""}`}>
-                                <Link href="#" className="drop-down">Our Brands</Link>
-                                <i onClick={() => toggleMenu("company")} className={`bi bi-${state.activeMenu === "company" ? "dash" : "plus"} dropdown-icon`} />
-                                <ul className={`sub-menu ${state.activeMenu === "company" ? "d-block" : "none"}`} >
-                                    <li><Link href="https://home.krepsoftware.co.ke/">KREP Software - All in CRM,HRM,ERP</Link></li>
+                                <li className={`menu-item-has-children ${pathname === "/service/our-brands" ? "active" : ""}`}>
+                                <Link href="/service/our-brands" className="drop-down">Our Brands</Link>
+                                <i onClick={() => toggleMenu("brands")} className={`bi bi-${state.activeMenu === "brands" ? "dash" : "plus"} dropdown-icon`} />
+                                <ul className={`sub-menu ${state.activeMenu === "brands" ? "d-block" : "none"}`} >
+                                    <li><Link href="https://home.krepsoftware.co.ke/" target="_blank" rel="noopener noreferrer">KREP Software - All in CRM,HRM,ERP</Link></li>
                                     <li>
-                                        <Link href="https://rawlinzdesigns.co.ke/">Rawlinz Designs - Digitally Yours!</Link>
+                                        <Link href="https://rawlinzdesigns.co.ke/" target="_blank" rel="noopener noreferrer">Rawlinz Designs - Digitally Yours!</Link>
                                     </li>
                                     <li>
-                                        <Link href="http://somaflow.co.ke/">Somaflow- School Mgt Made Easy</Link>
+                                        <Link href="http://somaflow.co.ke/" target="_blank" rel="noopener noreferrer">Somaflow- School Mgt Made Easy</Link>
                                     </li>
                                     <li>
-                                        <Link href="https://cheapwebhosting.co.ke/">Cheap Web Hosting</Link>
+                                        <Link href="https://cheapwebhosting.co.ke/" target="_blank" rel="noopener noreferrer">Cheap Web Hosting</Link>
                                     </li>
                                     <li>
-                                        <Link href="http://cheapbulksms.co.ke/">Cheap Bulk SMS</Link>
+                                        <Link href="http://cheapbulksms.co.ke/" target="_blank" rel="noopener noreferrer">Cheap Bulk SMS</Link>
                                     </li>
                                     <li>
-                                        <Link href="https://rmske.co.ke/">RMS Kenya- Realestates Simplified</Link>
+                                        <Link href="https://rmske.co.ke/" target="_blank" rel="noopener noreferrer">RMS Kenya- Realestates Simplified</Link>
                                     </li>
                                     <li>
-                                        <Link href="https://pointofsale.co.ke/">POS Software</Link>
+                                        <Link href="https://pointofsale.co.ke/" target="_blank" rel="noopener noreferrer">POS Software</Link>
                                     </li>
                                     <li>
-                                        <Link href="https://fintrackapp.co/">Fintrack - Fintech Solution</Link>
+                                        <Link href="https://fintrackapp.co/" target="_blank" rel="noopener noreferrer">Fintrack - Fintech Solution</Link>
                                     </li>
                                  
                                 </ul>
