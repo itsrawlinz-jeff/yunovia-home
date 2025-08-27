@@ -483,6 +483,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/jeffrey-rowlings-1b4aa81aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -494,14 +495,15 @@ const TeamPage = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://github.com/itsrawlinz-jeff"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
-                          <i className="bx bxl-facebook" />
+                          <i className="bx bxl-github" />
                         </div>
                         <div className="content">
-                          <span>Facebook</span>
+                          <span>GitHub</span>
                         </div>
                       </a>
                     </li>
@@ -573,6 +575,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -582,19 +585,7 @@ const TeamPage = () => {
                         </div>
                       </a>
                     </li>
-                    <li>
-                      <a
-                        href="https://www.facebook.com/"
-                        className="social-area"
-                      >
-                        <div className="icon">
-                          <i className="bx bxl-facebook" />
-                        </div>
-                        <div className="content">
-                          <span>Facebook</span>
-                        </div>
-                      </a>
-                    </li>
+                    
                   </ul>
                 </div>
               </div>
@@ -655,6 +646,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/okello-elvis-604721363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -666,14 +658,15 @@ const TeamPage = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://github.com/elvisokello"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
-                          <i className="bx bxl-facebook" />
+                          <i className="bx bxl-github" />
                         </div>
                         <div className="content">
-                          <span>Facebook</span>
+                          <span>GitHub</span>
                         </div>
                       </a>
                     </li>
@@ -719,25 +712,13 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/faith-amani-jalenga?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
                         </div>
                         <div className="content">
                           <span>LinkedIn</span>
-                        </div>
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="https://www.facebook.com/"
-                        className="social-area"
-                      >
-                        <div className="icon">
-                          <i className="bx bxl-facebook" />
-                        </div>
-                        <div className="content">
-                          <span>Facebook</span>
                         </div>
                       </a>
                     </li>
@@ -783,6 +764,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/software-engineer-purity-1b443a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -794,14 +776,15 @@ const TeamPage = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://github.com/Engineer-Purity"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
-                          <i className="bx bxl-facebook" />
+                          <i className="bx bxl-github" />
                         </div>
                         <div className="content">
-                          <span>Facebook</span>
+                          <span>GitHub</span>
                         </div>
                       </a>
                     </li>
@@ -825,7 +808,7 @@ const TeamPage = () => {
                   <h5>
                     <Link href="/team/details">Gad Shilkali</Link>
                   </h5>
-                  <span>Digital Marketing Manager</span>
+                  <span>Business Development Manager</span>
                   <svg
                     className="divider"
                     height={6}
@@ -840,25 +823,13 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/gad-shikali-ab1498282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
                         </div>
                         <div className="content">
                           <span>LinkedIn</span>
-                        </div>
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="https://www.facebook.com/"
-                        className="social-area"
-                      >
-                        <div className="icon">
-                          <i className="bx bxl-facebook" />
-                        </div>
-                        <div className="content">
-                          <span>Facebook</span>
                         </div>
                       </a>
                     </li>
@@ -897,6 +868,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/vannesah-ngugi-9247a1321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -908,14 +880,15 @@ const TeamPage = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://github.com/veenNgugi"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
-                          <i className="bx bxl-facebook" />
+                          <i className="bx bxl-github" />
                         </div>
                         <div className="content">
-                          <span>Facebook</span>
+                          <span>GitHub</span>
                         </div>
                       </a>
                     </li>
@@ -954,6 +927,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/in/kubasuivansakwa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -965,14 +939,15 @@ const TeamPage = () => {
                     </li>
                     <li>
                       <a
-                        href="https://www.facebook.com/"
+                        href="https://github.com/KubasuIvanSakwa"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
-                          <i className="bx bxl-facebook" />
+                          <i className="bx bxl-github" />
                         </div>
                         <div className="content">
-                          <span>Facebook</span>
+                          <span>GitHub</span>
                         </div>
                       </a>
                     </li>
@@ -998,7 +973,7 @@ const TeamPage = () => {
                   <h5>
                     <Link href="/team/details">Jecinta Mumbi</Link>
                   </h5>
-                  <span>Marketing Manager</span>
+                  <span>Business Delopment Manager</span>
                   <svg
                     className="divider"
                     height={6}
@@ -1013,6 +988,7 @@ const TeamPage = () => {
                       <a
                         href="https://www.linkedin.com/"
                         className="social-area"
+                        target="_blank"
                       >
                         <div className="icon">
                           <i className="bx bxl-linkedin" />
@@ -1022,19 +998,7 @@ const TeamPage = () => {
                         </div>
                       </a>
                     </li>
-                    <li>
-                      <a
-                        href="https://www.facebook.com/"
-                        className="social-area"
-                      >
-                        <div className="icon">
-                          <i className="bx bxl-facebook" />
-                        </div>
-                        <div className="content">
-                          <span>Facebook</span>
-                        </div>
-                      </a>
-                    </li>
+                    
                   </ul>
                 </div>
               </div>
@@ -1115,76 +1079,6 @@ const TeamPage = () => {
 </div>
       
 
-      <div className="team-join-section mb-130">
-        <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-xl-6 col-lg-7 col-md-10">
-              <div className="team-join-wrap">
-                <div
-                  className="section-title three text-center wow animate fadeInDown"
-                  data-wow-delay="200ms"
-                  data-wow-duration="1500ms"
-                >
-                  <h2>Join Our Team!</h2>
-                  <p>
-                    We’re always on the lookout for passionate, creative, and
-                    talented individuals to join our dynamic team.
-                  </p>
-                </div>
-                <svg
-                  width={6}
-                  height={170}
-                  viewBox="0 0 6 170"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M3.5 5L5.88675 0H0.113249L2.5 5H3.5ZM3 170L5.88675 165H0.113249L3 170ZM2.5 4.5V165.5H3.5V4.5H2.5Z" />
-                  <path
-                    d="M3 90V115"
-                    stroke="url(#paint0_linear_6965_68)"
-                    strokeWidth={2}
-                    strokeLinecap="round"
-                  />
-                  <defs>
-                    <linearGradient
-                      id="paint0_linear_6965_68"
-                      x1={3}
-                      y1={110}
-                      x2={3}
-                      y2="90.5"
-                      gradientUnits="userSpaceOnUse"
-                    >
-                      <stop offset={0} stopColor="#5956E9" />
-                      <stop offset={1} stopColor="#EEEEEE" />
-                    </linearGradient>
-                  </defs>
-                </svg>
-                <div
-                  className="btn-area wow animate fadeInUp"
-                  data-wow-delay="200ms"
-                  data-wow-duration="1500ms"
-                >
-                  <Link href="/career" className="primary-btn3 three btn-hover">
-                    Join Our Team
-                    <svg
-                      width={10}
-                      height={10}
-                      viewBox="0 0 10 10"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M1 9L9 1M9 1C7.22222 1.33333 3.33333 2 1 1M9 1C8.66667 2.66667 8 6.33333 9 9"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                      />
-                    </svg>
-                    <span />
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       {/* Team Page End */}
 
       <Home4Footer />

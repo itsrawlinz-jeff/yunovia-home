@@ -28,6 +28,7 @@ const Home3PartnerSection = () => {
                             <a href="#"><img src="/assets/img/Brands/RMS.jpg" alt="" /></a>
                             <a href="#"><img src="/assets/img/Brands/Somaflow.jpg" alt="" /></a>
                             <a href="#"><img src="/assets/img/Brands/Web Hosting.jpg" alt="" /></a>
+                            
                         </div>
                     </div>
                     <div className="marquee dark">

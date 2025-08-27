@@ -42,12 +42,12 @@ const OurBrandsPage = () => {
             link: "https://rmske.co.ke/",
             image: "/assets/img/brands/RMS.jpg"
         },
-        // {
-        //     name: "POS Software",
-        //     description: "Point of Sale solutions for retail and hospitality businesses.",
-        //     link: "https://pointofsale.co.ke/",
-        //     image: "/assets/img/brands/pos-software.jpg"
-        // },
+        {
+            name: "POS Software",
+            description: "Point of Sale solutions for retail and hospitality businesses.",
+            link: "https://pointofsale.co.ke/",
+            image: "/assets/img/brands/LogoPOS.jpg"
+        },
         {
             name: "Fintrack",
             description: "Fintech Solution - Financial tracking and management tools.",
