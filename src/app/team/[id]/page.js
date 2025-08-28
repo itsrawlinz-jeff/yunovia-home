@@ -22,7 +22,7 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/,"
+      github: "https://github.com/itsrawlinz-jeff"
     }
   },
 
@@ -39,7 +39,6 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
     }
   },
 
@@ -53,7 +52,7 @@ const teamMembers = {
     achievements: ["Led the development of a custom ERP system that improved operational efficiency by 40%."],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
+      github: "https://github.com/elvisokello"
     }
   },
 
@@ -70,7 +69,6 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
     }
   },
 
@@ -87,7 +85,7 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
+      github: "https://github.com/Engineer-Purity"
     }
   },
 
@@ -104,7 +102,6 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
     }
   },
 
@@ -121,7 +118,7 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
+      github: "https://github.com/veenNgugi"
     }
   },
 
@@ -138,13 +135,13 @@ const teamMembers = {
     ],
     socialLinks: {
       linkedin: "https://linkedin.com/",
-      facebook: "https://facebook.com/"
+      github: "https://github.com/ivan-sakwa"
     }
   },
 
 "jecinta-mumbi": {
   name: "Jecinta Mumbi",
-  title: "Marketing Manager",
+  title: "Business Development Manager",
   image: "/assets/img/TeamImages/jess.png",
   quote: "Driving brand growth through creativity, strategy, and innovation.",
   bio: "As Marketing Manager at Yunovia Group, I lead initiatives that enhance our brand presence, engage our audience, and support business growth through effective campaigns and strategies.",
@@ -155,7 +152,6 @@ const teamMembers = {
   ],
   socialLinks: {
     linkedin: "https://linkedin.com/",
-    facebook: "https://facebook.com/"
   }
 },
 
