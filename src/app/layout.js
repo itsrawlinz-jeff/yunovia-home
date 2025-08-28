@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
         <link rel="canonical" href={`https://www.yunoviagroup.com${pathname}`} />
 
         {/* Favicon */}
-        <link rel="icon" href="/assets/img/fav-icon.svg" type="image/x-icon" sizes="16x16" />
+        <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" sizes="16x16" />
 
         {/* Social Open Graph Tags */}
         <meta property="og:type" content="website" />
